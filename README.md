@@ -3,7 +3,7 @@
 A passionate Javascript Developer 
 - 🔭 I’m currently working on React projects.
 - 🌱 I’m learning React Native.
-- 👯 I’m looking to collaborate on Mobile App Projects
+- 👯 I’m looking to collaborate on Web and Mobile App Projects
 - 💬 Ask me about: anything, I am happy to help
 - 💜 Interests: philosophy, psychology, travel, working out, painting and playing.
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
