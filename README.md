@@ -5,7 +5,7 @@ A passionate Javascript Developer
 - 🌱 I’m learning React Native.
 - 👯 I’m looking to collaborate on Web Projects
 - 💬 Ask me about: anything, I am happy to help
-- 💜 Interests: philosophy, psychology, travel, working out, painting and playing piano.
+- 💜 Interests: philosophy, psychology, traveling, working out, painting and playing piano.
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 - 😄 Pronouns: her/she
 
